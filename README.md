@@ -41,7 +41,7 @@
 ## 🤝 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/YourLinkedInProfile">
+  <a href="[https://www.linkedin.com/in/dinusha-madusanka-763181284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BR43Om%2FDcSiObkwecgqNsGg%3D%3D]">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
   </a>
   <a href="https://twitter.com/YourTwitterHandle">
