@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🎓 Computer Science student at [Your University]
+- 🎓 Computer Science student at KIU Univesity
 - 💻 Passionate about [Your Interests, e.g., Web Development, AI, Cybersecurity]
 - 🌱 Currently learning [Technologies or Subjects]
 - 🔭 Working on [Current Project]
