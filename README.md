@@ -17,6 +17,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
   <img alt="Java" src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&amp;logo=java&amp;logoColor=black">
+  <img alt="Python" src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&amp;logo=python&amp;logoColor=white">
   
 </p>
 
