@@ -1,4 +1,4 @@
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif)](https://dinusha24madusanka.io)
+![logo](https://github.com/dinusha24madusanka/dinusha24madusanka/blob/main/Github%20Banner.png
 
 <h1 align="center">Hi 👋, I'm Dinusha Madusanka</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
