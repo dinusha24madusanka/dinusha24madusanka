@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dinushamadusanka54@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGotcfqzbM/MfW_zLWlGbo8nfQEkRr_BA/edit?utm_content=DAGotcfqzbM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGotcfqzbM/MfW_zLWlGbo8nfQEkRr_BA/edit?utm_content=DAGotcfqzbM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ux3eHpkIXOKTKE_EjNvAdDzcjuYXBwJI/view?usp=drive_link](https://drive.google.com/file/d/1ux3eHpkIXOKTKE_EjNvAdDzcjuYXBwJI/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny**
 
