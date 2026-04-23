@@ -54,7 +54,7 @@
 ### 📊 GitHub Analysis & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinusha24madusanka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinusha24madusanka&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinusha24madusanka&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
 
