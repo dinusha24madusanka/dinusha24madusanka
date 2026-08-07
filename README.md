@@ -2,197 +2,152 @@
 
 ### Hi there 👋
 
-[![Profile Views](https://u8views.com/api/v1/github/profiles/185080704/views/day-week-month-total-count.svg)](https://u8views.com/github/dinusha24madusanka)
-![GitHub followers](https://img.shields.io/github/followers/dinusha24madusanka?style=social)
-![GitHub stars](https://img.shields.io/github/stars/dinusha24madusanka?style=social)
+[![Profile Views](https://u8views.com/api/v1/github/profiles/144506606/views/day-week-month-total-count.svg)](https://u8views.com/github/dinusha24madusanka)
+![Forks](https://img.shields.io/github/forks/dinusha24madusanka/dinusha24madusanka?label=Forks&style=social)
+![Stars](https://img.shields.io/github/stars/dinusha24madusanka/dinusha24madusanka?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/dinusha24madusanka/dinusha24madusanka?color=8A2BE2&label=Repo%20Size&style=plastic)
+![Author](https://img.shields.io/static/v1?label=Author&message=Dinusha%20Madusanka&color=8A2BE2&style=plastic)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif\&size=28\&pause=1000\&color=8A2BE2\&center=true\&vCenter=true\&width=650\&lines=Hey%2C+I'm+Dinusha+Madusanka;Software+Engineering+Undergraduate;Full-Stack+Software+Developer;Mobile+%26+Web+Developer;Building+Real-World+Software+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&size=25&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=720&lines=Hey%2C+I'm+Dinusha+Madusanka;Software+Engineering+Undergraduate;Full-Stack+%26+Mobile+Developer;AI+Enthusiast;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Improve)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dinusha24madusanka/dinusha24madusanka/main/YouTube%20Banner%20-%20Tech%20Savvy%20Developer%27s%20Hub%281%29.gif" width="100%" alt="Dinusha Madusanka Banner"/>
+<img src="./assets/banner.png" width="100%" alt="Dinusha Madusanka Developer Banner"/>
 
 </div>
 
-# 👨‍💻 ɪ'ᴍ ᴅɪɴᴜsʜᴀ ᴍᴀᴅᴜsᴀɴᴋᴀ
+# ɪ'ᴍ ᴅɪɴᴜsʜᴀ ᴍᴀᴅᴜsᴀɴᴋᴀ
 
 ### Digital Craftsman
-
 **Software Developer / Full-Stack Developer / Mobile App Developer / AI Enthusiast**
 
-I am a passionate **Software Engineering Undergraduate from Sri Lanka** who enjoys designing and developing practical software solutions.
+I am a passionate **Software Engineering Undergraduate** who enjoys building practical, user-focused software solutions and continuously improving my engineering skills.
 
-My main interests include **Full-Stack Development, Mobile Application Development, Artificial Intelligence, Backend Development, Database Systems, and Game Development**.
-
-* 🎓 Final Year **Software Engineering Undergraduate**
-* 💻 Interested in **Software Development, Web Development & Mobile Development**
-* 🤖 Currently working on **MindMate-SL – AI-powered Digital Wellness & Language Analysis Project**
-* 🌐 Building **Full-Stack Web Applications**
-* 📱 Developing **Android applications using Kotlin**
-* 🧠 Learning more about **AI, Machine Learning & NLP**
-* 🎮 Exploring **Unity Game Development**
-* 🗄️ Working with **MySQL, MongoDB & PostgreSQL**
-* 🔧 Interested in building real-world software systems
-* 🤝 Open to collaborating on interesting development projects
-
-### 💞️ Looking to collaborate on
-
-* 🌐 Full-Stack Web Applications
-* 📱 Android & Mobile Applications
-* 🤖 AI-powered Applications
-* 🛠️ Software Engineering Projects
-* 🎮 Unity Game Development
+- 🎓 Final Year Software Engineering Undergraduate
+- 💻 Interested in Full-Stack Web Development and Software Engineering
+- 📱 Building Android applications with Kotlin
+- 🧠 Exploring Artificial Intelligence, Machine Learning and NLP
+- ⚙️ Working with backend systems and REST APIs
+- 🗄️ Using MySQL, MongoDB and PostgreSQL
+- 🎮 Exploring Unity game development with C#
+- 🤝 Open to collaborating on interesting software projects
 
 ---
 
-# 🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆
+## 🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dinusha24madusanka\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=5\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dinusha24madusanka&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-# 📊 Gɪᴛʜᴜʙ Sᴛᴀᴛɪsᴛɪᴄs
+## 📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dinusha24madusanka&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dinusha24madusanka&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinusha24madusanka&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinusha24madusanka&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dinusha24madusanka&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=dinusha24madusanka&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 🚀 Tᴇᴄʜ Sᴛᴀᴄᴋ & Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
+## ⚡ Tᴇᴄʜ Sᴛᴀᴄᴋ & Sᴋɪʟʟs
 
-## 🌱 Current Learning
+<div align="center">
 
-* 🧠 Deepening my knowledge in **Artificial Intelligence & Machine Learning**
-* ⚛️ Improving my knowledge of **React.js and modern frontend development**
-* 🐍 Developing AI and backend systems using **Python & FastAPI**
-* 📱 Improving **Kotlin / Android Development**
-* ☁️ Exploring **Cloud Computing and Deployment**
-* 🏗️ Learning professional **Software Architecture & System Design**
+<img src="./assets/Skills_Animation_Dark.gif" width="100%" alt="Dinusha Madusanka Skills Animation"/>
 
----
+</div>
 
-# 🛠️ Tech Stack
+### 👨‍💻 Languages & Frameworks
 
-### 👨‍💻 Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,cs,kotlin,html,css" />
-
-</p>
-
-### 🌐 Frontend Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,vite" />
-
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,python,fastapi" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,kotlin,cs,html,css,react,nodejs,spring,fastapi,dotnet&perline=12" />
 </p>
 
 ### 🗄️ Databases
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
-
-</p>
-
-### 🎮 Mobile & Game Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,unity,cs" />
-
-</p>
-
-### 🎨 Design & Styling
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=figma,bootstrap,css" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
 </p>
 
 ### 🛠️ Tools & Platforms
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,visualstudio" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,visualstudio,androidstudio,unity,figma,vite" />
 </p>
 
----
+### 🌱 Current Learning
 
-# 🚀 Featured Projects
-
-| Project                                    | Description                                                          | Technologies                         |
-| ------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------ |
-| 🧠 **MindMate-SL**                         | AI-powered digital wellness and Singlish sentiment analysis platform | `Kotlin` `Python` `FastAPI` `AI/NLP` |
-| 🐠 **Aquarium Business Management System** | Business management platform for aquarium operations                 | `React` `Backend` `MySQL`            |
-| 📚 **Library Management System**           | Library management and borrowing system                              | `Spring Boot` `Java` `MySQL`         |
-| 💼 **Kent Accounting Website**             | Corporate website covering Finance, IT and Engineering services      | `HTML` `CSS` `JavaScript`            |
-| 🛡️ **Falcon Group Admin System**          | Admin dashboard and customer-management system                       | `Node.js` `MongoDB` `JavaScript`     |
-| 🌐 **3D Developer Portfolio**              | Interactive developer portfolio with modern 3D UI                    | `React` `Vite` `Three.js`            |
-| 🎮 **Unity Game Projects**                 | Game-development projects created using Unity                        | `Unity` `C#`                         |
-| 🖥️ **TCP Client–Server System**           | Linux TCP socket communication project                               | `C` `Linux` `Networking`             |
+- Deepening my knowledge in **Artificial Intelligence and Machine Learning**
+- Improving **React.js and modern frontend architecture**
+- Building APIs with **Python / FastAPI**
+- Improving **Kotlin / Android Development**
+- Exploring **Cloud, DevOps and Software Architecture**
 
 ---
 
-# 📈 Contribution Activity
+## 🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs
+
+| Project | Description | Tech |
+|---|---|---|
+| 🧠 **MindMate-SL** | Digital wellness and language-analysis research project | `Kotlin` `Firebase` `Python` |
+| 🌊 **AquaSphere** | Collaborative software ecosystem project | `.NET` `React` |
+| 💰 **Student Expense Tracker** | Mobile financial-management application for students | `Kotlin` `Android Studio` |
+| 🚌 **Bus Reservation System** | Reservation-management application | `C#` |
+| 👥 **Employee Management System** | Employee data and management application | `C#` |
+| 🏨 **Hotel Reservation** | Hotel booking and reservation project | `Java` |
+
+---
+
+## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Aᴄᴛɪᴠɪᴛʏ
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dinusha24madusanka&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dinusha24madusanka&bg_color=090510&color=c084fc&line=a855f7&point=e9d5ff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+
+</div>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinusha24madusanka/dinusha24madusanka/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinusha24madusanka/dinusha24madusanka/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dinusha24madusanka/dinusha24madusanka/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🤝 Cᴏɴɴᴇᴄᴛ & Cᴏʟʟᴀʙᴏʀᴀᴛᴇ
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinusha24madusanka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinusha-madusanka-763181284)
+
+<!-- Add these when you have the public links:
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+-->
 
 </div>
 
 ---
 
-# 🤝 Connect & Collaborate
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dinusha24madusanka)
+### 💜 Code • Learn • Build • Improve
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dinusha-madusanka-763181284)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge\&logo=google-chrome\&logoColor=white)](#)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](#)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 “Code. Learn. Build. Improve.”
-
-⭐ **Thanks for visiting my GitHub Profile!**
+**Thanks for visiting my GitHub profile!**
 
 </div>

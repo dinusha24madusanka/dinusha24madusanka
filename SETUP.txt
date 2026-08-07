@@ -1,0 +1,26 @@
+DINUSHA GITHUB PROFILE PACK
+
+Repository:
+dinusha24madusanka/dinusha24madusanka
+
+Upload these files while preserving the folders:
+
+README.md
+assets/banner.png
+assets/Skills_Animation_Dark.gif
+.github/workflows/snake.yml
+
+GitHub steps:
+1. Open your profile README repository.
+2. Add the `assets` folder and upload both image files.
+3. Add `.github/workflows/snake.yml`.
+4. Replace the root README.md with the included README.md.
+5. Commit all changes to `main`.
+6. Go to Actions -> Generate Contribution Snake -> Run workflow.
+7. Wait for the Action to finish successfully.
+8. Refresh your GitHub profile.
+
+Note:
+The Portfolio / Email / Instagram buttons are intentionally commented out
+because no verified public links were supplied. Add them later by replacing
+the placeholders and removing the HTML comment markers.
